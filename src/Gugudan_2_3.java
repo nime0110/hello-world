@@ -1,4 +1,4 @@
-public class Gugudan_2_4 {
+public class Gugudan_2_3 {
 	public static void main(String[] args) {
 		int number1 = 2;
 		int number2 = 3;
