@@ -1,5 +1,5 @@
 
-public class arrayGugudan {
+public class ArrayGugudan {
 	public static void main(String[] args) {
 		//배열생성 및 배열의 크기 지정 - 9개의 데이터(int정수)를 가지는 배열을 만듬
         int[] result = new int[9];

@@ -1,5 +1,5 @@
 
-public class methodGugu_2 {
+public class MethodGugu_2 {
 	public static int[] calculate(int times) {
 		int[] result = new int[9];		
 		for(int i = 0; i < result.length; i++) {

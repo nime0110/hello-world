@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class S_gugudan_4 {
+public class Sgugudan_4 {
 	public static void main(String[] orgs) {
 	//4´Ü
 	System.out.println("4´Ü");
